@@ -1,8 +1,12 @@
 # 💫 About Me:
 🔭 Working on Full Stack & AI-based projects
+
 🌱 Learning React, ML, and DSA
+
 👯 Open to collaboration on Web & AI projects
+
 💬 Ask me about Java, Python, Databases
+
 ⚡ Fun fact: I turn ideas into projects
 
 
