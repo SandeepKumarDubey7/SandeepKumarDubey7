@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Full Stack web development projects<br><br>AI-powered applications like Interview Express<br><br>Academic & internship projects using Java, Python, Oracle APEX<br><br>👯 I’m looking to collaborate on<br><br>Web development projects (Frontend / Backend)<br><br>AI & ML based beginner-to-intermediate projects<br><br>Open-source projects related to education, automation, or career guidance<br><br>🤝 I’m looking for help with<br><br>Advanced backend architecture<br><br>Machine Learning model optimization<br><br>Deployment & scalability (Docker, Cloud basics)<br><br>🌱 I’m currently learning<br><br>JavaScript (from basics to advanced)<br><br>Full Stack Development<br><br>Machine Learning fundamentals<br><br>Data Structures & Algorithms for interviews<br><br>💬 Ask me about<br><br>Java & Object-Oriented Programming<br><br>Python programming<br><br>Database concepts (SQL, Oracle, MongoDB)<br><br>Academic projects, internships, and viva preparation<br><br>⚡ Fun fact<br><br>I balance college, gym, and coding daily — consistency is my superpower 🚀
+🔭 Working on Full Stack & AI-based projects
+🌱 Learning React, ML, and DSA
+👯 Open to collaboration on Web & AI projects
+💬 Ask me about Java, Python, Databases
+⚡ Fun fact: I turn ideas into projects
 
 
 ## 🌐 Socials:
